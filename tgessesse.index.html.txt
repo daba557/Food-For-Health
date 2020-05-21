@@ -1,4 +1,4 @@
-// my first xtml document
+// my first xml document
 <?xml version="1.0?>
 <!DOCTYPE BusinessCard>
 <Name>Tekleyesus Gessesse</Name>
