@@ -1,0 +1,10 @@
+// my first xtml document
+<?xml version="1.0?>
+<!DOCTYPE BusinessCard>
+<Name>Tekleyesus Gessesse</Name>
+<phone type="mobile">(202) 555-6666</phone>
+<phone type="work">(800) 555-6656</phone>
+<phone type="fax">(510) 555-4666</phone>
+<phone type="home">(301) 555-5467</phone>
+<email>wodajot@yahoo.com</email>
+</BusinessCard>
