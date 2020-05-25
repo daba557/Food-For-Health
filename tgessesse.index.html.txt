@@ -1,0 +1,11 @@
+//this is my first file xml file
+<?xml version="1.0"?>
+<!DOCTYPE BusinessCard>
+<BusinessCard>
+<Name>Tekleyedsus Gessesse</Name>
+<phone type="mobile">(240)-222-2345</phone>
+<phone type="work">(800)-222-2345</phone>
+<phone type="fax">(240)-202-2345</phone>
+<phone type="home">(301)-222-2305</phone>
+<email> wodajot@yahoo.com</email>
+<BusinessCard>
